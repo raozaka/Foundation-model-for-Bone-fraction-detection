@@ -1,3 +1,20 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+torch
+torchvision
+timm
+numpy
+matplotlib
+scikit-learn
+umap-learn
+pyyaml
+
+
+
 # 🦴 Orthopedic Foundation Model (Self-Supervised Learning)
 
 This repository demonstrates a self-supervised foundation model pipeline for orthopedic X-ray analysis.
